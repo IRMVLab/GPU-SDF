@@ -1,2 +1,2 @@
 # GPU-SDF
-official code for GPU-SDF:Incorporating Geometry Prior Uncertainty in Neural Implicit Indoor Surface Reconstruction
+official code for paper: Leveraging Geometric Prior Uncertainty and Complementary Constraints for High-Fidelity Neural Indoor Surface Reconstruction
